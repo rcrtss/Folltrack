@@ -3,6 +3,5 @@ Software solution in C++ (running in Ubuntu 12.04 OS) for an autonomous mobile r
 
 # Contributors
 Jorren S.,
-Joren G.,
 Daniel C. and
 myself.
